@@ -25,16 +25,6 @@
 ---
 
 <div align="center">
-
-### Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=violense&theme=highcontrast&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=violense&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
