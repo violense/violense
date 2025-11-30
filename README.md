@@ -1,7 +1,6 @@
-# Hi, I'm Evil.
+# Evil
 
-I build software that breaks things to make them stronger.
-My focus: heavy backend systems, security tools, and fast applications.
+I build software that breaks things to make them stronger. My focus is on heavy backend systems, security tools, and fast applications.
 
 ---
 
