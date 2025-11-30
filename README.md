@@ -28,6 +28,3 @@ Tools of the trade.
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=violense&theme=highcontrast&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violense&layout=compact&theme=graywhite&hide_border=true&langs_count=6&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
-</p>
