@@ -2,7 +2,7 @@
 
 # evil
 
-**Backend systems · Security tools · High-performance applications**
+**Backend systems · Security tools · High-performance applications · Frontend development**
 
 </div>
 
