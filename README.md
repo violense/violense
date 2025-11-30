@@ -28,5 +28,5 @@ I use a mix of powerful languages to build my projects:
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=violense&theme=dark&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violense&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violense&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
