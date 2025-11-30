@@ -19,5 +19,10 @@ My focus: heavy backend systems, security tools, and fast applications.
 
 ### Activity
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=violense&theme=highcontrast&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=violense&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violense&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+</p>
